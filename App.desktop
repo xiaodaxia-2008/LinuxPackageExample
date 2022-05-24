@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=App
+Exec=main
+Terminal=false
+Type=Application
+Icon=Eye
+Categories=Graphics;Science;Engineering;
+StartupNotify=true
